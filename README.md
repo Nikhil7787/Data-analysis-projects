@@ -3,6 +3,7 @@
 
 
 ### 1️⃣ Store Sale Annual Report
+https://github.com/Nikhil7787/Data-analysis-using-Excel/tree/main/Store%20Sale%20Annual%20Report
 
 ### Objective
 The store wants to create an annual sales report. So that, they can understand their customers and grow more sales.
