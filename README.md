@@ -7,8 +7,9 @@
 
 The store wants to create an annual sales report. So that, they can understand their customers and grow more sales.
 
-### Click here To view in detail ⬇️
-https://github.com/Nikhil7787/Data-analysis-using-Excel/blob/main/Store%20Sale%20Annual%20Report/Store%20Sale%20Annual%20Report.md
+[![Static Badge](https://img.shields.io/badge/Click_here-to_view_more-8A2BE2)](https://github.com/Nikhil7787/Data-analysis-using-Excel/blob/main/Store%20Sale%20Annual%20Report/Store%20Sale%20Annual%20Report.md)
+
+
 
 
 
