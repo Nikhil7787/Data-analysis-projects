@@ -1,6 +1,7 @@
 # Store Sale Annual Report
 
-### Objective
+### ![Static Badge](https://img.shields.io/badge/OBJECTIVE-8A2BE2)
+
 
 The store wants to create an annual sales report. So that, they can understand their customers and grow more sales.
 
