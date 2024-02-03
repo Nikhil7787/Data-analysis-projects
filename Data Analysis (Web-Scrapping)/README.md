@@ -17,4 +17,6 @@
 ▶️ Post-resolution of type discrepancies, visualizations were crafted using 'matplotlib' and 'seaborn.' Key visuals include graphs highlighting the top 10 companies by revenue and the distribution of revenue across industries, offering insightful perspectives on the dataset. <br/>
 
 
+<a href="https://github.com/Nikhil7787/Data-analysis-projects/blob/main/Data%20Analysis%20(Web-Scrapping)/web_scrapping.ipynb" target="_blank"><img src="https://img.shields.io/badge/View%20Notebook%20Here-8A2BE2" alt="Static Badge" style="width: 150px; height: auto;"></a>
+
 
