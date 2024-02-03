@@ -1,3 +1,3 @@
 # Data-analysis-projects
 
-Data-analysis-projects to showcase skill's
+Data analysis projects to showcase skills
