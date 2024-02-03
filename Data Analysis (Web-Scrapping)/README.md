@@ -1,4 +1,4 @@
-# Data-analysis (Web-Scrapping-)
+# Data-analysis (Web-Scrapping)
 
 ## Tech Used
 
